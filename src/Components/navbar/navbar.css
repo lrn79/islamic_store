@@ -1,0 +1,25 @@
+.main_nav {
+    background-color: rgba(0, 0, 0, 0.689);
+    padding: 10px;
+}
+
+.menubar {
+    color: rgb(43, 247, 43);
+    border: 2px solid rgb(18, 230, 32);
+    font-weight: 800;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.menubar:hover {
+    color: greenyellow;
+    background: rgb(11, 28, 10);
+}
+
+.active_menubar {
+    color: greenyellow;
+    border: 2px solid rgb(11, 28, 10);
+    font-weight: 800;
+    padding: 5px;
+    border-radius: 10px;
+}

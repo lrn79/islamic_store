@@ -1,0 +1,44 @@
+[
+    {
+        "img": "https://buffer.com/library/content/images/2022/03/amina.png",
+        "id": 1,
+        "name": "zarin anan",
+        "message": "i buy this product thats awesome . paper is amayzing and this quran is with very good design",
+        "rate": 4.8
+    },
+    {
+        "img": "https://images.outlookindia.com/public/uploads/articles/2019/4/13/HIJAB_IMAGES_571_855.jpg",
+        "id": 2,
+        "name": "marin munsafra",
+        "message": "i used this product thats awesome",
+        "rate": 3.8
+    },
+    {
+        "img": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_0.jpg",
+        "id": 3,
+        "name": "abdullah",
+        "message": "i used this product thats awesome",
+        "rate": 4.8
+    },
+    {
+        "img": "https://st.depositphotos.com/1809585/3820/i/600/depositphotos_38203201-stock-photo-arab-man-posing-happy-with.jpg",
+        "id": 4,
+        "name": "Lutfor Rahman",
+        "message": "One of the best book ever i had thats awesome .... its design is unique and page are very qualitiful",
+        "rate": 4.8
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxERfeH8CH5Hfr-fdowRXIGzqlilsEzmPzg&usqp=CAU",
+        "id": 5,
+        "name": "Mark Jukarburg",
+        "message": "WOW what a book its clam and peachful i really love this book....",
+        "rate": 4.8
+    },
+    {
+        "img": "https://i.etsystatic.com/15418561/c/2250/1788/0/230/il/f06c80/3233862560/il_340x270.3233862560_jwqd.jpg",
+        "id": 6,
+        "name": "ali ahsaan",
+        "message": "this is not bad .... it really qualityful .... and vary clear",
+        "rate": 4.8
+    }
+]
