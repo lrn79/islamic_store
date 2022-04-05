@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# A project by Lrn79
 
 This project is quran review project [islamic store](https://euphonious-manatee-84a05e.netlify.app/).
 
 
-## Concepts used to build the SP_EXPRESS ---
+## this Concepts was build the  islamic store ---
  * React Router.
  * Custom Hook.
-  *linked img from online.
+    *linked img from online.
  * React Bootstrap.
  * ReCharts.
  * Vanilla Css.
